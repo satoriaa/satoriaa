@@ -95,20 +95,6 @@ I am passionate about exploring how data can drive insights and create meaningfu
 
 ---
 
-## 📚 Learning Progress
-
-```python
-skills = {
-    'Python': '████████░░ 80%',
-    'Data Analysis': '███████░░░ 70%',
-    'SQL': '███████░░░ 70%',
-    'Machine Learning': '█████░░░░░ 50%',
-    'Web Development': '██████░░░░ 60%',
-}
-```
-
----
-
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
@@ -130,35 +116,6 @@ skills = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satoriaa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<!-- Ganti 'repo-name' dengan nama repository project kamu yang sebenarnya -->
-<a href="https://github.com/satoriaa/project-name-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=satoriaa&repo=project-name-1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/satoriaa/project-name-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=satoriaa&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-**📊 Example Project Ideas to Build:**
-- Data Analysis Dashboard with Python & Streamlit
-- Machine Learning Model for Prediction
-- SQL Database for Data Management
-- Web Scraping & Data Cleaning Project
-  
 </div>
 
 ---
