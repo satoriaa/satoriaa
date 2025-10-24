@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Muhammad%20Satria%20Rizky&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20AI%20Enthusiast%20|%20Tarumanagara%20University&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Satria%20Rizky&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Data+%26+AI+Enthusiast+📊;Always+Learning+New+Things+🚀;Building+Tomorrow's+Solutions+💡;Welcome+to+My+GitHub!+👋" alt="Typing SVG" />
-</div>
+<h1 align="center">👋 Hi, I'm Muhammad Satria Rizky</h1>
+<h3 align="center">🎓 Student at Tarumanagara University | 📊 Data & AI Enthusiast</h3>
+
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=satoriaa&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
