@@ -1,63 +1,106 @@
 <h1 align="center">Hi 👋! I'm Muhammad Satria Rizky</h1>
-<h3 align="center">Student from Tarumanagara University • Tech & Software Enthusiast</h3>
+<h3 align="center">Student from Tarumanagara University • Data & AI Enthusiast</h3>
+
+<br/>
 
 ---
 
-<br clear="both" />
+## 🇮🇩 Tentang Saya (ID)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satoriaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satoriaa&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="180" alt="Top Languages" />
-</div>
+Saya adalah seorang mahasiswa dari **Universitas Tarumanagara** yang memiliki ketertarikan besar pada dunia **Teknologi, Data, dan Artificial Intelligence**. Saya menikmati proses belajar hal baru, membangun proyek, serta mengembangkan kemampuan teknis dan analitis.
 
-<br clear="both" />
+Saya senang mengeksplorasi bagaimana data dapat memberikan insight dan menjadi solusi dari berbagai masalah. Saat ini, saya aktif mempelajari dan membangun fondasi kuat dalam bidang **Data & AI** dengan fokus pada *Python, Data Analysis, dan Machine Learning*.
+
+💡 Saya percaya bahwa teknologi terus berkembang, dan saya ingin menjadi bagian dari inovasi tersebut dengan terus belajar dan bertumbuh setiap hari.
 
 ---
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+## 🌍 About Me (EN)
 
-## 🚀 About Me
+I am a student at **Tarumanagara University** with a strong interest in **Technology, Data, and Artificial Intelligence**. I enjoy learning new things, building projects, and strengthening both my technical and analytical skills.
 
-Saya adalah seorang mahasiswa di **Universitas Tarumanagara** yang memiliki ketertarikan mendalam pada **Teknologi & Pengembangan Perangkat Lunak**. Saya berfokus pada pengembangan *frontend* dan terus mengeksplorasi teknologi baru. Saat ini, saya aktif membangun proyek-proyek menggunakan *Tech Stack* di bawah ini.
+I am passionate about exploring how data can drive insights and create meaningful solutions. Currently, I am developing a solid foundation in **Data & AI**, focusing on *Python, Data Analysis, and Machine Learning*.
 
-<br clear="both" />
+💡 I believe technology will continuously evolve, and I aspire to grow alongside it by learning, creating, and contributing to future innovations.
+
+---
+
+## 📚 Currently Learning: Data & AI
+
+- Python for Data Science & Automation  
+- Data Analysis & Visualization  
+- SQL for Data Processing  
+- Intro to Machine Learning  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="35" />
-  </div>
+### **Programming Languages**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" title="C#"/>
+</div>
+
+### **Web & Frontend**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" title="CSS3"/>
+</div>
+
+### **Tools & Others**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" title="VS Code"/>
+</div>
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satoriaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satoriaa&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satoriaa&theme=tokyonight&hide_border=false" height="170" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
+> (*Akan terlihat lebih profesional jika kamu tambahkan 2–4 project terbaikmu di sini*)  
+> Contoh akan aku bantu nanti kalau kamu mau.
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://instagram.com/(https://www.instagram.com/str_rzy?igsh=OHZ6ZWVzeHVndW9n&utm_source=qr)" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35" />
+  <a href="https://www.instagram.com/str_rzy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
   <a href="https://discord.com/users/sat9800" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
   </a>
   <a href="mailto:muhanmadsatriarizky@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/muhammad-satria-rizky-832842371/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
+  <a href="https://www.linkedin.com/in/muhammad-satria-rizky-832842371/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
 
 ---
 
-## 📈 My GitHub Activity
+<br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
