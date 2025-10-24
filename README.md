@@ -42,22 +42,16 @@ Saya adalah seorang mahasiswa di **Universitas Tarumanagara** yang memiliki kete
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://youtube.com/(URL_ANDA)" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="35" />
-  </a>
-  <a href="https://instagram.com/(URL_ANDA)" target="_blank">
+  <a href="https://instagram.com/(https://www.instagram.com/str_rzy?igsh=OHZ6ZWVzeHVndW9n&utm_source=qr)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35" />
   </a>
-  <a href="https://twitch.tv/(URL_ANDA)" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" height="35" />
-  </a>
-  <a href="https://discord.com/users/(ID_ANDA)" target="_blank">
+  <a href="https://discord.com/users/sat9800" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:muhanmadsatriarizky@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />
   </a>
-  <a href="https://linkedin.com/in/(URL_ANDA)" target="_blank">
+  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/muhammad-satria-rizky-832842371/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
   </a>
 </div>
