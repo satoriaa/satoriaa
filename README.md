@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Satria%20Rizky&fontSize=42&fontAlignY=32&desc=Data%20%26%20AI%20Enthusiast%20%7C%20Tarumanagara%20University&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Muhammad%20Satria%20Rizky&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20AI%20Enthusiast%20|%20Tarumanagara%20University&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Data+%26+AI+Enthusiast+%F0%9F%93%8A;Always+Learning+New+Things+%F0%9F%9A%80;Building+Tomorrow's+Solutions+%F0%9F%92%A1;Welcome+to+My+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Data+%26+AI+Enthusiast+📊;Always+Learning+New+Things+🚀;Building+Tomorrow's+Solutions+💡;Welcome+to+My+GitHub!+👋" alt="Typing SVG" />
 </div>
 
 <div align="center">
