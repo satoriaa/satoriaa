@@ -98,8 +98,14 @@ I am passionate about exploring how data can drive insights and create meaningfu
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satoriaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satoriaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=satoriaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
+    height="170"
+  />
+   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoriaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" 
+    height="170"
+  />
 </div>
 
 <div align="center">
